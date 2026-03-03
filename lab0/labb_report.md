@@ -1,11 +1,11 @@
-University: ITMO University\ 
-Faculty: FICT Course: Введение в веб технологии\ 
-Year: 2025/2026\ 
-Group: U4125\ 
-Author: Vinogradskaia Anastasia Leonidovna\ 
-Lab: Lab1\ 
-Date of create: 03.03.2026\ 
-Date of finished: 03.03.2026\
+University: ITMO University
+Faculty: FICT Course: Введение в веб технологии
+Year: 2025/2026
+Group: U4125
+Author: Vinogradskaia Anastasia Leonidovna
+Lab: Lab1
+Date of create: 03.03.2026
+Date of finished: 03.03.2026
 
 Что сделано:
 Часть 1 
